@@ -1,4 +1,6 @@
-# 👋🏼 Hola, soy [Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Full Stack
+# 👋🏼 Hola, soy [#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
+Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github[Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Full Stack
 
 ---
 
@@ -26,14 +28,19 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 
 ## ⚙ Tecnologías
 
-- **`HTML`**
-- **`CSS`**
+- <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+**`HTML`**
+- <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+**`CSS`**
 - **`SCSS`**
-- **`JavaScript`**
+- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   
+**`JavaScript`**
 - **`Bootstrap`**
 - **`Git y GitHub`**
 - **`Figma`**
 
+---
+<!-- #2a7ae4 -->
 ## 👇🏼 Contáctame 👇🏼
 
 * Email: bellinimateo872@gmail.com
