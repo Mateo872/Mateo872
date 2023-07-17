@@ -34,8 +34,6 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 **`Bootstrap`**
 - <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 **`Git y GitHub`**
-- <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/c11a2f70ac8a0e93b55f17e7e3c02a32d1612783/topics/figma/figma.png"></code>
-**`Figma`**
 - <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 **`React`**
 - <code><img height="20" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -46,6 +44,8 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 **`Express`**
 - <code><img height="20" alt="node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 **`Node`**
+- <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/c11a2f70ac8a0e93b55f17e7e3c02a32d1612783/topics/figma/figma.png"></code>
+**`Figma`**
 - **`Aspectos del diseño UX/UI`**
 - **`Metodologías ágiles - Scrum`**
 
