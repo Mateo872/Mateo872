@@ -8,15 +8,15 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 
 ### 💎 Accenture - MindHub
 
-* Bootcamp Full Stack M.E.R.N | Diciembre 2022 - Actual.
+* Bootcamp Full Stack M.E.R.N | Diciembre 2022 - Agosto 2023.
 
 ### 💎 Rolling Code
 
-* Bootcamp Full Stack | Diciembre 2022 - Actual.
+* Bootcamp Full Stack | Diciembre 2022 - Agosto 2023.
 
 ### 💎 Alura Latam - Oracle
 
-* Especialización Front-End | Noviembre 2022 - Actual.
+* Especialización Front-End | Noviembre 2022 - Julio 2023.
 
 ---
 
