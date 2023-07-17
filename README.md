@@ -26,25 +26,25 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 **`HTML`**
 - <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 **`CSS`**
-  <code><img height="20" alt="scss" src="https://raw.githubusercontent.com/github/explore/12f37ea7a17ea6b04e16e16574cf554da4aa6476/topics/sass/sass.png"></code>
-- **`SCSS`**
+  <code><img height="20" alt="scss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+**`SCSS`**
 - <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 **`JavaScript`**
 - <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 **`Bootstrap`**
 - <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-- **`Git y GitHub`**
+**`Git y GitHub`**
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/c11a2f70ac8a0e93b55f17e7e3c02a32d1612783/topics/figma/figma.png"></code>
-- **`Figma`**
+**`Figma`**
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-- **`React/redux`**
+**`React/redux`**
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-- **`Mongo DB`**
+**`Mongo DB`**
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-- **`Express`**
+**`Express`**
 - <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-- **`Node`**
+**`Node`**
 - **`Aspectos del diseño UX/UI`**
 - **`Metodologías ágiles - Scrum`**
 
