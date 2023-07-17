@@ -6,10 +6,6 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 
 ## 🎓 Educación
 
-### 💎 Udefined Academy
-
-* Bootcamp Full-Stack JavaScript | Marzo 2023 - Actual.
-
 ### 💎 Accenture - MindHub
 
 * Bootcamp Full Stack M.E.R.N | Diciembre 2022 - Actual.
