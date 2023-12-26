@@ -1,4 +1,4 @@
-# 👋🏼 Hola, soy [Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Web Frontend
+# 👋🏼 Hola, soy [Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Web especializado en Frontend
 
 ---
 
