@@ -1,4 +1,4 @@
-# 👋🏼 Hola, soy [Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Full Stack
+# 👋🏼 Hola, soy [Mateo Bellini](https://www.linkedin.com/in/mateo-bellini) | Desarrollador Web Frontend
 
 ---
 
@@ -16,7 +16,7 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 
 ### 💎 Alura Latam - Oracle
 
-* Especialización FrontEnd | noviembre 2022 - julio 2023.
+* Especialización Frontend | noviembre 2022 - julio 2023.
 
 ---
 
