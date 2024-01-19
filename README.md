@@ -38,11 +38,15 @@ Una persona proactiva, responsable, muy curioso, siempre positivo y con ganas de
 **`TypeScript`**
 - <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 **`React`**
+- <code><img height="20" width="20" alt="nextjs" src="https://i.postimg.cc/mZYBT4f4/Icon-light-background.png"></code>
+**`Next.js`**
 - <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 **`Git y GitHub`**
 - <code><img height="20" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 **`Redux - Redux Toolkit`**
-- <code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+- <code><img height="20" width="20" alt="zustand" src="https://i.postimg.cc/RF0VNbcd/zustand.png"></code>
+**`Zustand`**
+- <code><img height="20" alt="mongo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 **`Mongo DB`**
 - <code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 **`Express`**
